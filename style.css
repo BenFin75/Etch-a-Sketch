@@ -1,0 +1,16 @@
+.sketchpad {
+    background-color: blue;
+    height: 1000px;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px;
+}
+
+.gridBox {
+    background-color: white;
+}
+
+.drawn {
+    background-color: black;
+}
